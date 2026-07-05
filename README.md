@@ -1,39 +1,37 @@
-# E-Plant Shopping
+# e-plantShopping
 
-E-Plant Shopping is an e-commerce web application for browsing and purchasing plants online.
+e-plantShopping is a React and Redux shopping cart application for an online plant shop called Paradise Nursery.
 
-![1](https://github.com/user-attachments/assets/1a457ab6-cca3-4edb-828b-690e7086fe99)
+Paradise Nursery allows users to browse houseplants, view plant images, names, descriptions, and prices, add plants to a shopping cart, update quantities, remove items, and view the total cart amount.
 
-![2](https://github.com/user-attachments/assets/d2455a04-4fe2-458b-853d-c9d2051537c2)
+## Project Name
 
-## Demo
+e-plantShopping
 
-Live demo: [E-Plant](https://milantony05.github.io/e-plantShopping/)
+## Features
 
-## Installation
-
-To run this project locally:
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/wjsnwsjnsjowsjswjo/e-plantshopping.git
-   ```
-2. **Navigate to the project directory**:
-   ```bash
-   cd e-plantshopping
-   ```
-3. **Install dependencies**:
-   ```bash
-   npm install
-   ```
-4. **Start the development server**:
-   ```bash
-   npm run dev
-   ```
+- Paradise Nursery landing page
+- Product listing page with plant categories
+- Add to Cart functionality
+- Dynamic cart item count
+- Shopping cart page
+- Increase and decrease item quantity
+- Remove items from the cart
+- Cart total and item subtotal calculation
+- Checkout button with Coming Soon message
+- Continue Shopping button
 
 ## Technologies Used
 
-- HTML5
-- CSS3
+- React
+- Redux Toolkit
 - JavaScript
-- Vite + React
+- CSS
+- Vite
+
+## Installation
+
+git clone https://github.com/ionnon/e-plantShopping.git
+cd e-plantShopping
+npm install
+npm run dev
